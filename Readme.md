@@ -139,5 +139,3 @@ Berikut isi lengkap file **`index.html`** setelah semua langkah dilakukan:
 
 ✍️ **Nama:** Radjikin Septiawan
 🧠 **Mata Kuliah:** Pemrograman Web1
-
-```
